@@ -6,9 +6,6 @@ const userData = document.getElementById("userData");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
 
-// Calling the function to get the user's data
-getUser("vaibhavprasad54");
-
 
 // Function to get user's data
 async function getUser(username){
